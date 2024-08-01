@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To Learning</h1>
+<h1>Welcome To Mgtech</h1>
 </body>
 <body style="color:red;">
  <div class="container">
